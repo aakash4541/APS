@@ -4,5 +4,5 @@ Module Module1
         Console.WriteLine("Hello World")
         Console.ReadLine()
     End Sub
-        console.writeLine("poda myre")
+        console.writeLine("IDHU POO ILLA FLOWER")
 End Module
